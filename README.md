@@ -15,7 +15,10 @@ npm start
 
 ![image](https://github.com/Ajaydeep123/FirstWebsite/assets/49810031/378c7bbe-21e8-4e6f-b856-3ae753cc54b1)
 
-### Sample PR : https://github.com/Ajaydeep123/FirstWebsite/pull/13
+### Sample PR : https://github.com/Ajaydeep123/FirstWebsite/pull/17 
+</br>
+
+https://github.com/Ajaydeep123/FirstWebsite/pull/13
 ## Features
 
 - Automated execution of code within pull requests
