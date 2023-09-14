@@ -1,7 +1,12 @@
 # code-clerk
 
 > A Github App that gives the output of the code to users upon creating pull requests
-[DEMO](https://drive.google.com/file/d/1Es6xoLLPYrkgBb3mPQM-V1x4LANWivpT/view?usp=sharing)
+> 
+
+>[DEMO Video](https://drive.google.com/file/d/1Es6xoLLPYrkgBb3mPQM-V1x4LANWivpT/view?usp=sharing)
+>
+>
+> [Summary](https://docs.google.com/document/d/19cH-874FPTLtcM6ZYQsnbLSbICdH2J9y8wbVBLrY07g/edit?usp=sharing)
 ## Setup
 
 ```sh
